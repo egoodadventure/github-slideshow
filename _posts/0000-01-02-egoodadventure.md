@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Do you like jazz?
+Sending digital hug
 Use left arrow to go back!
